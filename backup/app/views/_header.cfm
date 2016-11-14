@@ -1,0 +1,16 @@
+<cfparam name="pageTitle" default="Flashcard Tree">
+<cfparam name="pageDescription" default="CEL Creations is an entertainment company that publishes digital comic books, visual novels, and games for language learners.">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+
+	<cfoutput>
+	<title>#pageTitle#</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="#pageDescription#" />
+	</cfoutput>
+
+</head>
+<body>
